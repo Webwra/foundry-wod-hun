@@ -39,5 +39,6 @@
     ]
   },
   "url":"https://github.com/Webwra/foundry-wod-hun",
+  "manifest": "https://github.com/Webwra/foundry-wod-hun/releases/latest/download/module.json",
   "description": "Hungarian translation of Vampire the Masquarade"
 }
