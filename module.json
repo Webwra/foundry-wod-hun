@@ -1,0 +1,42 @@
+{
+  "id": "wod-translation-hun",
+  "title": "WoD Translation HUN",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Webwra",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "languages": [
+    {
+      "lang": "hu",
+      "name": "Hungarian Core",
+      "path": "translations/core-hu.json"
+    },
+    {
+      "lang": "hu",
+      "name": "Hungarian Vampire",
+      "path": "translations/vampire-hu.json"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "vtm5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "5.0.0"
+        }
+      }
+    ]
+  },
+  "description": "Hungarian translation of Vampire the Masquarade"
+}
