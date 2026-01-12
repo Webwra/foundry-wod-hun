@@ -19,12 +19,12 @@
 		{
 			"lang": "en",
 			"name": "Hungarian Core",
-			"path": "translations/core-hu.json"
+			"path": "lang/core-hu.json"
 		},
 		{
 			"lang": "en",
 			"name": "Hungarian Vampire",
-			"path": "translations/vampire-hu.json"
+			"path": "lang/vampire-hu.json"
 		}
 	],
 	"relationships": {
