@@ -1,45 +1,45 @@
 {
-  "id": "wod-translation-hun",
-  "title": "WoD Translation HUN",
-  "version": "1.0.0",
-  "compatibility": {
-    "minimum": "13",
-    "verified": "13"
-  },
-  "authors": [
-    {
-      "name": "Webwra",
-      "flags": {}
-    }
-  ],
-  "flags": {
-    "canUpload": true
-  },
-  "languages": [
-    {
-      "lang": "en",
-      "name": "Hungarian Core",
-      "path": "translations/core-hu.json"
-    },
-    {
-      "lang": "en",
-      "name": "Hungarian Vampire",
-      "path": "translations/vampire-hu.json"
-    }
-  ],
-  "relationships": {
-    "systems": [
-      {
-        "id": "vtm5e",
-        "type": "system",
-        "compatibility": {
-          "minimum": "5.0.0"
-        }
-      }
-    ]
-  },
-  "url":"https://github.com/Webwra/foundry-wod-hun",
-  "download": "https://github.com/Webwra/foundry-wod-hun/releases/download/test/module.zip",
-  "manifest": "https://github.com/Webwra/foundry-wod-hun/releases/download/test/module.json",
-  "description": "Hungarian translation of Vampire the Masquarade"
+	"id": "wod-translation-hun",
+	"title": "WoD Translation HUN",
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "13",
+		"verified": "13"
+	},
+	"authors": [
+		{
+			"name": "Webwra",
+			"flags": {}
+		}
+	],
+	"flags": {
+		"canUpload": true
+	},
+	"languages": [
+		{
+			"lang": "en",
+			"name": "Hungarian Core",
+			"path": "translations/core-hu.json"
+		},
+		{
+			"lang": "en",
+			"name": "Hungarian Vampire",
+			"path": "translations/vampire-hu.json"
+		}
+	],
+	"relationships": {
+		"systems": [
+			{
+				"id": "vtm5e",
+				"type": "system",
+				"compatibility": {
+					"minimum": "5.0.0"
+				}
+			}
+		]
+	},
+	"url":"https://github.com/Webwra/foundry-wod-hun",
+	"download": "https://github.com/Webwra/foundry-wod-hun/releases/download/test/module.zip",
+	"manifest": "https://github.com/Webwra/foundry-wod-hun/releases/download/test/module.json",
+	"description": "Hungarian translation of Vampire the Masquarade"
 }
