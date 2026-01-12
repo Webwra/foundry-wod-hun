@@ -1,3 +1,12 @@
-.vampire-font-headers.en .sheet-banner, .vampire-font-headers.en .field-header, .vampire-font-headers.en .resource-header, .vampire-font-headers.en .item-header, .vampire-font-headers.en .specialty{
+.vampire-font-headers.en .sheet-banner,
+.vampire-font-headers.en .field-header,
+.vampire-font-headers.en .resource-header, 
+.vampire-font-headers.en .item-header,
+.vampire-font-headers.en .specialty,
+.hu .sheet-banner,
+.hu .field-header,
+.hu .resource-header, 
+.hu .item-header,
+.hu .specialty{
 	font-family: "georgia";
 }

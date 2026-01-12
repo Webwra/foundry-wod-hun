@@ -17,12 +17,12 @@
 	},
 	"languages": [
 		{
-			"lang": "en",
+			"lang": "hu",
 			"name": "Hungarian Core",
 			"path": "lang/core-hu.json"
 		},
 		{
-			"lang": "en",
+			"lang": "hu",
 			"name": "Hungarian Vampire",
 			"path": "lang/vampire-hu.json"
 		}
