@@ -9,12 +9,9 @@
 	"authors": [
 		{
 			"name": "Webwra",
-			"flags": {}
+			"discord": "webwra"
 		}
 	],
-	"flags": {
-		"canUpload": true
-	},
 	"languages": [
 		{
 			"lang": "hu",
